@@ -16,7 +16,11 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+<<<<<<< HEAD
           <h1>Arush</h1>
+=======
+          <h1>Get started with React + Vite</h1>
+>>>>>>> refs/remotes/origin/main
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
